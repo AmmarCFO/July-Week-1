@@ -1,0 +1,8 @@
+{
+  "name": "July Week 1 Growth Report",
+  "description": "Growth Report - June Week 4",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
